@@ -2,6 +2,7 @@
   "name": "viofo",
   "description": "Supports Viofo dashcams",
   "author": "Daniel Cook",
+  "license": "MIT",
   "version": 1,
   "isDraft": true,
   "moduleType": "js",
